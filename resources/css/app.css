@@ -1,0 +1,41 @@
+@import 'bootstrap/dist/css/bootstrap';
+
+.eva-icon {
+    width: 40px;
+}
+
+body {
+    background-color: #150D32;
+}
+
+.navbar {
+    background-color: #67c03bdc;
+}
+
+.navbar-brand:hover{
+   color: #512E85; 
+}
+
+.nav-link{
+    font-weight: 500;
+    color: white;
+}
+.nav-link:hover {
+    color: #512E85;
+}
+
+/* container login/registazione */
+
+.log-container{
+    margin-top: 100px;
+}
+
+.btn-success{
+    background-color: #67c03bdc;
+}
+
+
+.form-check-input:checked {
+    background-color: #67c03bdc;
+    border-color: #67c03bdc;
+}
